@@ -1,6 +1,7 @@
 ## Hi there, I'm Othilie R Langholm 👋
-linkedIn[https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/] '\n'
+[linkedIn](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/)
 
+Student in Cyber Security looking forward to new challenges.
 
 
 <!--
